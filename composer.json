@@ -1,0 +1,15 @@
+{
+  "name": "hosmatic/php-api-client",
+  "description": "HOSMATIC PHP Client",
+  "keywords": ["hosmatic", "client", "php"],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Moritz Walter",
+      "email": "moritz.walter@the-systems.eu"
+    }
+  ],
+  "require": {
+    "the-systems/hmcsw4-php-client": "dev-master"
+  }
+}
